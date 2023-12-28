@@ -1,4 +1,9 @@
 ### Hi there 👋
+<ul>
+  <li>🔭 I am interested in Android and Web Development</li>
+  <li>📖 Currently learning Artificial Intelligence </li>
+  <li>👨‍🎓 Forever a Student of Technology</li>
+</ul>
 
 <!--
 **sujalthakuri/sujalthakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
